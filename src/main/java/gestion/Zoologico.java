@@ -47,7 +47,7 @@ public class Zoologico {
 		return cantidadTotalA;
 	}
 	
-	public void agregarZona(Zona zona) {
+	public void agregarZonas(Zona zona) {
 		zonas.add(zona);
 	}
 
